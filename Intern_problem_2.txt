@@ -1,0 +1,14 @@
+Step 1:Start
+
+Step :Create three variables as assign Values to the Each variable for var a= 1001001001001, Var b=12345567891,var c=559922932941
+
+Step :Remove  the last digit  number of all the three variables and multiply the all digits of each variable with 2.
+ 
+Step :Do this process until each variable gets into the single digit.
+
+Step :Check the last digit of the  default variable and the derived number is equal or not
+
+Step :If the derived number is equal to the last digit of the default variable print the number is valid, If not equal then  print number is not valid.
+
+Step :Stop
+
