@@ -2,7 +2,7 @@
 ## Functions
 ### Functions in the programming language are an block of code which is used to store an particular operation it only needs to be executed when it is needed by the user,It only works on the program only it is called by the user in the program if its not called by user it wont do anything in the program even it exist in the code.
 ### Return type  function it will return the value of the particular datatype and the function need to be create using the datatype keywork it differs for every programming language in java we have to mention the datatype as a keyword to create the function and then it returns the particular datatype value,In Java script no need to use an datatype as an keyword to create an function.
-## Classes
+## Class
 ### Class are an blue print of the program  we can create the required fields for th program inside an class .We create the fields within the class with no data in the fields but we can access and fill the data inside the fields by using objects.
 ## Object is instance of the class it is an key to access the fields within the class and it can access the class from the outside of the class inside of the main function We can create multiple instances for an single class and can fill multiple values for the fields inside the class using different instances and Every time an object is created it initializes the constructor of the class.
 ## Constructor
