@@ -1,0 +1,13 @@
+# Intern_day_18
+## Backend_Server
+### I have learned to create an backend server and with fully functional which uses Express.js as framework and I had used bruno opensource API tester to run my server which is connected and runs on the localhost and i had used postgresql for the database.
+## Postgres 
+### postgres is an object relational database management system which is an opensource database,I have created an separate database for my backend server and inside that database i have created the required table for my server to store the data and required fields inside the database which stores the data from the server which was given as an query and we need to create every field with the datatype we are going to store in that respective field of data,If we did not create the field with the datatype we are going to store we cant able to store that value in that field.
+### Here we use sql structured query language queries to store,update,Alter,delete and manipulate the data in the table.
+## Server_Functionalities
+### This backend_server is created on a purpose to store and monitor the employees active data on the office and their leave record and it store their information several methods has been used here like Arrays,functions,and Http methods Delete,post,get,patch
+- Functions are block of codes in the programming languages it uses to do the particular operation on the program only executes when it called by the user here it does the mathematical calculation and gets the value from the user on the json format through the tester API bruno and processes the given data in the json and returns the values as an single array.
+- Arrays has been used to store the value which was executed on the function and it returns the values.
+- Post is an one of the method in the http which is used to store an resource in the server or database,we can give input for this method in the json form which was generated from the server to the tester API bruno and it gets and stores the value in the database.
+- Get is an method from the client sends an request to the server for the particular information and the server responses to the request and sends the requested information from the server it fetches from the database.
+- patch is an method uses for manipulation in the http server requests it allows us to change the value which has been given or inserted in the database through the server by using post method using queries,It uses to change the existing record on the database table  by using structured query language queries at anytime.
