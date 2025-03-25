@@ -9,7 +9,7 @@
 -GEt method is used to give an request for an particular data from the server and it bring that request to an server and returns the response for the request we have given.
 - Both methods are using separate route to complete their task and using the route only we can call then or assign them the task through the API.
 ## Postgres
- ###  I have  created an backend server using express.js framework and here I uses postgesql as an database to store the data have been generated in my server,This postgres database is an sql based database it is an object relational database management.
+ ###  I have  created an backend server using express.js framework and here I uses postgresql as an database to store the data have been generated in my server,This postgres database is an sql based database it is an object relational database management.
  - we need to connect this database with the server we have created by impoRts the package 'pg' from the client.
  -  In postgres we use two connection methods which are CLient and pool.
  - Pool connection is an regularly used connection for the server most of the large data work environments are defaultly uses this connection for their server.
